@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<meta charset="utf-8"/>
+		<title> Criando Tabelas </title>		
+		</head>
+	<body style="font -size: 20px">
+		<h1>TABELA</h1>
+		
+		<table cellpadding="5" cellpadding="5" border="1">
+			<tr>
+				<th>Nome</th>
+				<th>Telefones</th>
+				<th>Endereço</th>
+			</tr>
+			<tr>
+				<td>Luiz Augusto</td>
+				<td>94 9444444-8888</td>
+				<td>Rua xv - 30</td>
+			</tr>
+			<tr>				
+				<td>João Martins</td>
+				<td>31 898887-4568</td>
+				<td>Rua xv - 31</td>
+			</tr>
+		</table>
+		<h1>MESCLA DUAS COLUNAS:</h1>	
+			<table cellpadding="0" cellpadding="10" border="1">
+				<tr>
+					<th colspan="4" >Telefones</th>
+				</tr>
+				
+				<tr>
+					<td>11 2222-2222</td>
+					<td>11 2222-2222</td>
+					<td>11 2222-2222</td>
+					<td>11 2222-2222</td>
+				</tr>
+				
+				<tr>
+					<td>11 2222-2222</td>
+					<td>11 2222-2222</td>
+					<td>11 2222-2222</td>
+					<td>11 2222-2222</td>
+				</tr>
+			</table>
+			
+			<h1>MESCLA DUAS LINHAS</h1>
+			
+			<table cellpadding="3" cellpadding="10" border="1" width="510">
+			<tr>
+				<th rowspan="3"> Telefones</th>
+			</tr>
+			
+			<tr>
+				    <td>11 2222-2222</td>
+					<td>11 2222-2222</td>
+			</tr>
+			
+			<tr>
+				    <td>11 2222-2222</td>
+					<td>11 2222-2222</td>
+			</tr>
+			</table>
+	</body>
+</html>
