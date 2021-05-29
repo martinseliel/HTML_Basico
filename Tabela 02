@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<meta charset="utf-8"/>
+		<title> Criando Tabelas </title>		
+		</head>
+	<body style="font -size: 20px">
+		<table cellpadding="10" cellpadding="0" border="1">
+			<tr>
+				<th colspan="2">Telefones</th>
+			</tr>
+			<tr>
+				
+				<td>94 9444444-8888</td>
+				<td>94 9444444-4444</td>
+			</tr>
+			<tr>
+				
+				<td>31 979789-4567</td>
+				<td>31 898887-4568</td>
+			</tr>
+		</table>
+				
+	</body>
+</html>
