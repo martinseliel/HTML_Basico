@@ -1,0 +1,20 @@
+!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<meta charset="utf-8"/>
+		<title> Titulo da Pàgina </title>
+		<meta name="Keywords" content="palavras, chaves, ficam aqui"> <!--palavras-chaves -->
+		<meta name="description" content="aqui coloca uma descrição do site ou pagina"> <!--Desrcição-->
+		<meta name="author" content="autor so site" <!--autor-->
+		<meta http-equiv="refresh" content="10"> <!--atualiza a pagina a cada 10 segundos-->
+		<!--isto e um comentario, usado para descrever ou informar algum codigo-->
+		
+		</head>
+	<body>
+		<h1>IMAGEM</h1>
+		
+		<p> 
+			<img src="C:\Users\marti\OneDrive\Imagens\logo.jpg"	width="500" height="300" alt="logomarca" />
+		</p>
+	</body>
+</html>
